@@ -1,6 +1,12 @@
 ## 📊 GitHub Stats
 
-![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priscilla0117&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla0117&layout=compact&theme=tokyonight)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priscilla0117&theme=radical" alt="Stats card"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priscilla0117&theme=radical" alt="Most Used Languages card"/>
+    </td>
+  </tr>
+</table>
